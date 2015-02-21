@@ -1,0 +1,10 @@
+bilio
+trilio
+quadrilio	4 ilio
+quintilio	5 ilio
+
+Pels seguents
+		6 ilio
+		n ilio
+sempre amb el format
+(n ilio) (n+1 ilions) (n ilio)

@@ -1,0 +1,49 @@
+\u
+un
+dos
+tres
+quatre
+cinc
+sis
+set
+vuit
+nou
+\d
+	\d\u
+deu
+	onze
+	dotze
+	tretze
+	catorze
+	quinze
+	setze
+	diset
+	divuit
+	dinou
+vint	-i-\u
+trenta	-\u
+quaranta	-\u
+cinquanta	-\u
+seixanta	-\u
+setanta	-\u
+vuitanta	-\u
+noranta	-\u
+\c
+	\c \d
+cent
+	\u-cents
+\m
+mil
+	\c mil \c
+\M
+un milió
+	\m milions \m
+\b
+un bilió
+	\M bilions \M
+\t
+un trilió
+	\b trilions \b
+\q
+un quadrilió
+	\t quadrilions \t

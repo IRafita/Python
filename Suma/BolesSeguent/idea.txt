@@ -1,0 +1,5 @@
+La idea de boles següent és que només coneixes el següent.
+Aixi per cada seguent afegueixes una vola
+
+
+Abans de poder comensar s'ha de saber generar els noms dels digits
