@@ -8,3 +8,6 @@ Pels seguents
 		n ilio
 sempre amb el format
 (n ilio) (n+1 ilions) (n ilio)
+
+
+Fins i tot tinc la idea de inventar-me una nova forma de dir els numeros, d'una forma més regular i amb menys regles
