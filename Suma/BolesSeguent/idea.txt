@@ -3,3 +3,18 @@ Aixi per cada seguent afegueixes una vola
 
 
 Abans de poder comensar s'ha de saber generar els noms dels digits
+
+exemple
+23
+41
+
+
+3 2 1  0   1   0
+  o oo ooo ooo oooo
+
+0 oooo
+1 ooo
+2 oo
+3 o
+4
+Unitats és 4
