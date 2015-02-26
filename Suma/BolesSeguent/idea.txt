@@ -3,6 +3,10 @@ Aixi per cada seguent afegueixes una vola
 
 
 Abans de poder comensar s'ha de saber generar els noms dels digits
+WARNING
+	Nomes podem generar els noms si sabem fer el canvi de base, cosa que representa que hem de saber operar per defecte...
+	Com que la suma és molt bàsica, no podem suposar que podem canviar de base, aixi que entendrem que
+	tot això se fa sense saber generar els noms dels digits pel problema del canvi de base
 
 exemple
 23
